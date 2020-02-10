@@ -1,5 +1,7 @@
 var express = require('express');
 var router = express.Router();
+var sql = require('mssql');
+
 
 const dbConfig = {
   user: "thomja",
