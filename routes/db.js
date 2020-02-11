@@ -4,8 +4,8 @@ var sql = require('mssql');
 
 
 const dbConfig = {
-  user: "thomja",
-  password: "Bestseller2!",
+  user: "***",
+  password: ***!",
   server: "jt-express-test.database.windows.net",
   database: "jt-express-test",
   port: 1433,
